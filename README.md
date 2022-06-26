@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Philippe Henderson, currently studying at IE University, in the [Masters in Computer Science & Business Technology](https://www.ie.edu/school-science-technology/masters/master-computer-science-business-technology/), and am looking for a Software Engineering job.
+I am Philippe Henderson, currently studying at IE University, in the [Masters in Computer Science & Business Technology](https://www.ie.edu/school-science-technology/masters/master-computer-science-business-technology/), and am looking for a Solutions Architect job.
 
 I have 3+ years experience working in business (most recently at N26 in Business Operations), but my love is for making ideas reality and fast MVP/prototyping - hence my switch to Engineering. I mainly work in Python and prefer backend-style work, but I have experience in React, Ionic, SQL & Databases, and so on. I really love building things that click, and that are easy to maintain (I ❤️ GitHub Actions). Find out more about me & feel free to connect with me here:
 
