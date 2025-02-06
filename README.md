@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Philippe Henderson, currently working at [finmid](www.finmid.com) as a Backend Software Engineer.
+I am Philippe Henderson, currently working at [netlight](www.netlight.com) as an IT Consultant.
 
 I have 1.5+ years working as a Backend SW Engineer, and 3+ years experience working in business (most recently at N26 in Business Operations). I am hungry and curious, with a passion for building ideas from the ground up - hence my switch to Engineering. I mainly work in Kotlin, using Spring Boot and Postgres. Big fan of systems/software architecture topics, and distributed systems in general. Find out more about me & feel free to connect with me here:
 
